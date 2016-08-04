@@ -1,0 +1,6 @@
+{"dependencies": {
+ "minimist" : "*",
+ "underscorejs" : "*",
+ "sugar" : "*",
+ "async" : "*"
+}}
